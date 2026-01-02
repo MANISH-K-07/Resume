@@ -1,6 +1,6 @@
 ## 📄 Manish Krishna Kandrakota — Resume
 
-This repository contains my professional resume, showcasing my work in Open Source, Blockchain Research, Computational Finance and Computer Science Engineering.
+This repository contains my professional resume, showcasing my work in Open Source, Blockchain Research, Static Analysis, Software Security, Distributed Systems, Compilers, Machine Learning Systems and Computer Science & Engineering.
 
 ---
 🚀 About Me
@@ -11,7 +11,11 @@ This repository contains my professional resume, showcasing my work in Open Sour
 
 - Author of an IEEE-published Blockchain research paper
 
-- Skilled in Java, Python, Git/GitHub, Maven, Docker, DSA, Web Tech
+- Extensive Projects Portfolio
+
+- Technical Blogs @ Medium, Hashnode
+
+- Skilled in Java, Python, Git/GitHub, Maven, Docker, DSA, Scalable Systems
 
 ---
 📘 Resume
