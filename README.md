@@ -20,6 +20,10 @@ You can view or download my resume here:
 
 👉🏻 [ManishKrishnaKandrakotaResume](https://github.com/MANISH-K-07/Resume/blob/main/ManishKrishnaKandrakotaResume.pdf)
 
+And find my Curriculum Vitae here:
+
+👉🏻 [ManishKrishnaKandrakotaCV](https://github.com/MANISH-K-07/Resume/blob/main/ManishKrishnaKandrakotaCV.pdf)
+
 (Stored in this repository.)
 
 ---
