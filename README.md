@@ -1,15 +1,17 @@
 ## 📄 Manish Krishna Kandrakota — Resume
 
-This repository contains my professional resume, showcasing my work in Open Source, Blockchain Research, Static Analysis, Software Security, Distributed Systems, Compilers, Machine Learning Systems and Computer Science & Engineering.
+This repository contains my resume, showcasing my work in Open Source, Research, Static Analysis, Software Security, Distributed Systems, Compilers, Machine Learning Systems and Computer Science & Engineering.
 
 ---
 🚀 About Me
 
-- B.Tech CSE student at Sreenidhi Institute of Science & Technology (2026)
+- Master of Science in Information Security at Carnegie Mellon University, Pittsburgh, USA
+
+- B.Tech CSE at Sreenidhi Institute of Science & Technology (2026)
 
 - 100+ merges as an Open Source Contributor at Checkstyle
 
-- Author of an IEEE-published Blockchain research paper
+- Author of two IEEE-published research papers
 
 - Extensive Projects Portfolio
 
